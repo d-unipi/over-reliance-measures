@@ -1,4 +1,4 @@
-# Over reliance measures
+# Over-reliance measures
 This repository contains a companion R notebook for the article:
 
 Daria Mikhaylova, Tommaso Turchi, and Alessio Malizia. 2026. How Do
